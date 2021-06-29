@@ -1,0 +1,49 @@
+h1 {
+    color:#086caf;
+   }
+
+   img{
+       width: 35%;
+       height: 35%;
+       text-align: center; 
+       margin: 5% auto; 
+       background-color: #ccc;
+   }  
+     
+   #divClass{
+       
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: #086caf;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;   
+}
+
+#educacion{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: #086caf;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 1px; 
+    background-color: antiquewhite;  
+}
+
+   #thirdDiv{
+    
+    background: linear-gradient(35deg,#CCFFFF,#1d5dbd);
+    padding: 50px;
+    border: 1px solid #2d2d2d;
+    display: flex;
+    justify-content: center;
+   }
+   
+   #spanId{
+       margin: 50px;
+       font-size: 18px;
+   }
+  
+  body{
+    background:url('https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png');
+  }
